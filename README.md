@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @Simon0104
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Simon0104/Simon0104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Simon0104 (Simon Liu)
+- 👀 I’m interested in Fullstack Development, Project Management.
+- 🌱 I’m currently pursuing a Master of IT at the University of New South Wales.
+- 💼 I have professional experience in project management, mechanical engineering, and software development.
+- 💞️ I’m looking to collaborate on innovative projects in software engineering.
+- 📫 How to reach me: simon.liu90104@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I started my career as a mechanical engineer and transitioned to IT to pursue my passion for technology and problem-solving.
