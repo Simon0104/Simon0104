@@ -19,7 +19,7 @@ I specialize in:
 
 ## 🧠 Currently Focused On:
 
-- Building fullstack apps with Vue / React + Java Spring Boot
+- Building fullstack apps with React + Java Spring Boot
 - Data engineering workflows with Hive / SQL / Pandas
 - Publishing open-source dashboards and web apps
 
