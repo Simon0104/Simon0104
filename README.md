@@ -56,7 +56,6 @@ Analyzed 100M+ user behavior logs from Taobao and built a live dashboard for fun
 
 📧 **Email**: [simon.liu90104@gmail.com](mailto:simon.liu90104@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/simon0104](https://linkedin.com/in/simon0104)  
-💼 **Resume / Portfolio**: [Available upon request or pinned repositories]
 
 ---
 
